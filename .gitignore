@@ -1,0 +1,7 @@
+# Adding config.py file
+api_keys.py
+
+WeatherPy_original.ipynb
+VacationPy_original.ipynb
+
+WeatherPy/__pycache__/
